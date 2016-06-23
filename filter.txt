@@ -1,0 +1,13 @@
+# cosmetic filters
+www.metasrc.com###lb_wrap
+www.metasrc.com###side_wrap
+www.youtube.com##.clearfix.yt-consent-banner.yt-consent
+www.youtube.com##.yt-uix-button-has-icon.yt-uix-button-size-default.yt-uix-button-default.yt-uix-sessionlink.footer-history.yt-uix-button
+# new youtube design
+www.youtube.com##.ytd-consent-bump-renderer-0.x-scope.ytd-masthead.style-scope
+
+||filecrypt.cc/images/s15uafgga.png$image
+||www.metasrc.com/assets/images/placeholder_square.png$image
+||www.metasrc.com/assets/images/placeholder_wide.png$image
+
+kat.cm
